@@ -71,7 +71,7 @@ Open GitHub Copilot: Ctrl + Enter
       - 然后其他快捷键再生效
 
 
-   ## GitHub Copilot invent by GitHub + GitHub Copilot Chat invent by Microsoft
+   ## `Visual Studio` `GitHub Copilot` invent by `GitHub` + `GitHub Copilot Chat` invent by `Microsoft`
 
    - GitHub Copilot Chat `ask copilot` 上下文菜单不出现，
      - 安装顺序，调整 禁用/启用 两个插件
