@@ -40,22 +40,24 @@ Open GitHub Copilot: Ctrl + Enter
       
       https://nira.com/github-copilot/
 
+## `VSCode` 按需 `GitHub Copilot` 增驾小技巧
+
+   - 目的
+
+      - 别自动建议、操作稍不慎代码就乱了
+
    - Can GitHub Copilot stop auto-suggesting, instead be triggered by a keystroke?
       
       GitHub Copilot 可以停止 (内联代码) 自动建议 ，而是通过手工按键触发吗？
       
       https://stackoverflow.com/questions/71224911/can-github-copilot-stop-auto-suggesting-instead-be-triggered-by-a-keystroke
 
-   ## `VSCode` 按需 `GitHub Copilot` 增驾小技巧
+   1. 禁用  `enableAutoCompletions`
+      - `VSCode preference`
+         
+         "github.copilot.editor.enableAutoCompletions": false`
 
-   - 目的
-
-      - 别自动建议、操作稍不慎代码就乱了
-
-
-   - "github.copilot.editor.enableAutoCompletions": false
-
-   - Control + Enter
+   1. `Control + Enter`
 
       - 从右边 `GitHub Copilot` 建议窗格，人工 10 选 1，按需使用
 
@@ -65,7 +67,7 @@ Open GitHub Copilot: Ctrl + Enter
 
            https://github.com/orgs/community/discussions/7255
 
-   - Alt + \
+   1. `Alt + \`
       - 然后其他快捷键再生效
 
 
