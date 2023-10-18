@@ -1,14 +1,23 @@
+ï»¿# GitHub-Copilot-for-CLI
+
+https://github.com/yveslaurentcreton/PSGitHubCopilotCLI
+
+https://www.damirscorner.com/blog/posts/20230526-GitHubCopilotForCliOnWindows.html
+
+https://evotec.xyz/powershellgallery-you-are-installing-modules-from-an-untrusted-repository/#:~:text=To%20fix%20this%20problem%20simply%20use%20command%20below,can%20install%20modules%20from%20there%20without%20any%20prompts.
+
+
 # Visual-Studio-GitHub-Copilot-Chat-Debugger-Aware
 
- ## GitHub Copilot Óë IntelliSense ºÍ IntelliCode µÄ¶Ô±È
+ ## GitHub Copilot ä¸ IntelliSense å’Œ IntelliCode çš„å¯¹æ¯”
    
-   - IntelliSense ÊÇ Visual Studio ÄÚÖÃµÄÒ»Ïî´úÂëÍê³É¹¦ÄÜ£¬Ëü¸ù¾İµ±Ç°ÉÏÏÂÎÄÌá¹©½¨Òé¡£ ÕâÀà½¨Òé°üÀ¨±äÁ¿Ãû³Æ¡¢º¯ÊıºÍÀà¡£ IntelliSense ÊÇÌØ¶¨ÓÚÓïÑÔµÄ£¬ÊÊÓÃÓÚÒ»×éÓĞÏŞµÄ±à³ÌÓïÑÔ¡£
+   - IntelliSense æ˜¯ Visual Studio å†…ç½®çš„ä¸€é¡¹ä»£ç å®ŒæˆåŠŸèƒ½ï¼Œå®ƒæ ¹æ®å½“å‰ä¸Šä¸‹æ–‡æä¾›å»ºè®®ã€‚ è¿™ç±»å»ºè®®åŒ…æ‹¬å˜é‡åç§°ã€å‡½æ•°å’Œç±»ã€‚ IntelliSense æ˜¯ç‰¹å®šäºè¯­è¨€çš„ï¼Œé€‚ç”¨äºä¸€ç»„æœ‰é™çš„ç¼–ç¨‹è¯­è¨€ã€‚
 
-   - IntelliCode ÊÇ Visual Studio µÄÒ»¸öÀ©Õ¹£¬ËüÊ¹ÓÃ AI ¸ù¾İ´úÂë¿âÖĞµÄÄ£Ê½Ìá¹©¸üÖÇÄÜµÄÕûĞĞ²¹È«¹¦ÄÜ¡£ Ëü³¬Ô½ÁË IntelliSense£¬Í¨¹ı·ÖÎö´úÂëÀ´ÁË½â³£¼û×ö·¨²¢ÏàÓ¦µØÍÆ¼ö½¨Òé¡£
+   - IntelliCode æ˜¯ Visual Studio çš„ä¸€ä¸ªæ‰©å±•ï¼Œå®ƒä½¿ç”¨ AI æ ¹æ®ä»£ç åº“ä¸­çš„æ¨¡å¼æä¾›æ›´æ™ºèƒ½çš„æ•´è¡Œè¡¥å…¨åŠŸèƒ½ã€‚ å®ƒè¶…è¶Šäº† IntelliSenseï¼Œé€šè¿‡åˆ†æä»£ç æ¥äº†è§£å¸¸è§åšæ³•å¹¶ç›¸åº”åœ°æ¨èå»ºè®®ã€‚
 
-   - GitHub Copilot/Chat ÊÇÊÊÓÃÓÚ Visual Studio µÄ AI Çı¶¯µÄ´úÂëÍê³ÉÀ©Õ¹£¬ËüÀûÓÃÕıÊ½·¢²¼µÄÅÓ´óµÄ´úÂëÊı¾İ¼¯À´Ìá¹©ÉÏÏÂÎÄ¸ĞÖªµÄ´úÂë½¨Òé¡¢´úÂëÆ¬¶Î£¬ÉõÖÁÊÇÕû¸öº¯Êı¡£ ËüÊÊÓÃÓÚ¶àÖÖ±à³ÌÓïÑÔ£¬Óë IntelliCode ºÍ IntelliSense Ïà±È£¬ËüÌá¹©ÁË¸ü¸ß¼¶µÄ°ïÖú¡£
+   - GitHub Copilot/Chat æ˜¯é€‚ç”¨äº Visual Studio çš„ AI é©±åŠ¨çš„ä»£ç å®Œæˆæ‰©å±•ï¼Œå®ƒåˆ©ç”¨æ­£å¼å‘å¸ƒçš„åºå¤§çš„ä»£ç æ•°æ®é›†æ¥æä¾›ä¸Šä¸‹æ–‡æ„ŸçŸ¥çš„ä»£ç å»ºè®®ã€ä»£ç ç‰‡æ®µï¼Œç”šè‡³æ˜¯æ•´ä¸ªå‡½æ•°ã€‚ å®ƒé€‚ç”¨äºå¤šç§ç¼–ç¨‹è¯­è¨€ï¼Œä¸ IntelliCode å’Œ IntelliSense ç›¸æ¯”ï¼Œå®ƒæä¾›äº†æ›´é«˜çº§çš„å¸®åŠ©ã€‚
 
-     ËäÈ»ÕâÈıÕß¶¼Ö¼ÔÚÌá¸ß¿ª·¢ÈËÔ±µÄ¹¤×÷Ğ§ÂÊ£¬µ« GitHub Copilot ÒÔÆäÀí½â´úÂëÉÏÏÂÎÄµÄÄÜÁ¦ÍÑÓ±¶ø³ö£¬¿ÉÒÔÌá¹©¸ü×¼È·¡¢Ïà¹Ø¶È¸ü¸ßµÄ½¨Òé¡£
+     è™½ç„¶è¿™ä¸‰è€…éƒ½æ—¨åœ¨æé«˜å¼€å‘äººå‘˜çš„å·¥ä½œæ•ˆç‡ï¼Œä½† GitHub Copilot ä»¥å…¶ç†è§£ä»£ç ä¸Šä¸‹æ–‡çš„èƒ½åŠ›è„±é¢–è€Œå‡ºï¼Œå¯ä»¥æä¾›æ›´å‡†ç¡®ã€ç›¸å…³åº¦æ›´é«˜çš„å»ºè®®ã€‚
 
 
 # Shortcuts
@@ -21,7 +30,7 @@ Zoom Out: Ctrl + =
 
 ## GitHub Copilot
 
-   - ¿ì½İ¼ü
+   - å¿«æ·é”®
 
 ```
 Trigger suggestion: Alt + \
@@ -36,47 +45,47 @@ Open GitHub Copilot: Ctrl + Enter
 
    - The Ultimate Manual to GitHub Copilot
    
-      GitHub Copilot ÖÕ¼«ÊÖ²á
+      GitHub Copilot ç»ˆææ‰‹å†Œ
       
       https://nira.com/github-copilot/
 
-## `VSCode` °´Ğè `GitHub Copilot` Ôö¼İĞ¡¼¼ÇÉ
+## `VSCode` æŒ‰éœ€ `GitHub Copilot` å¢é©¾å°æŠ€å·§
 
-   - Ä¿µÄ
+   - ç›®çš„
 
-      - ±ğ×Ô¶¯½¨Òé¡¢²Ù×÷ÉÔ²»É÷´úÂë¾ÍÂÒÁË
+      - åˆ«è‡ªåŠ¨å»ºè®®ã€æ“ä½œç¨ä¸æ…ä»£ç å°±ä¹±äº†
 
    - Can GitHub Copilot stop auto-suggesting, instead be triggered by a keystroke?
       
-      GitHub Copilot ¿ÉÒÔÍ£Ö¹ (ÄÚÁª´úÂë) ×Ô¶¯½¨Òé £¬¶øÊÇÍ¨¹ıÊÖ¹¤°´¼ü´¥·¢Âğ£¿
+      GitHub Copilot å¯ä»¥åœæ­¢ (å†…è”ä»£ç ) è‡ªåŠ¨å»ºè®® ï¼Œè€Œæ˜¯é€šè¿‡æ‰‹å·¥æŒ‰é”®è§¦å‘å—ï¼Ÿ
       
       https://stackoverflow.com/questions/71224911/can-github-copilot-stop-auto-suggesting-instead-be-triggered-by-a-keystroke
 
-   1. ½ûÓÃ  `enableAutoCompletions`
+   1. ç¦ç”¨  `enableAutoCompletions`
       - `VSCode preference`
          
          "github.copilot.editor.enableAutoCompletions": false`
 
    1. `Control + Enter`
 
-      - ´ÓÓÒ±ß `GitHub Copilot` ½¨Òé´°¸ñ£¬ÈË¹¤ 10 Ñ¡ 1£¬°´ĞèÊ¹ÓÃ
+      - ä»å³è¾¹ `GitHub Copilot` å»ºè®®çª—æ ¼ï¼Œäººå·¥ 10 é€‰ 1ï¼ŒæŒ‰éœ€ä½¿ç”¨
 
-      - ¸Ã¿ì½İ¼üÔÚ `ipynb notebook` ÎŞĞ§£¬³åÍ»£¬`notebook` ÖĞÊÇÖ´ĞĞ´úÂë `cell`
+      - è¯¥å¿«æ·é”®åœ¨ `ipynb notebook` æ— æ•ˆï¼Œå†²çªï¼Œ`notebook` ä¸­æ˜¯æ‰§è¡Œä»£ç  `cell`
 
-         - ×ÔĞĞ°´Ğè¸ÄÎª Control + Shift + Alt+ Enter »òÕß °Ñ `ipynb notebook` ¸ÄµôÓÃ±ğµÄ¿ì½İ¼ü
+         - è‡ªè¡ŒæŒ‰éœ€æ”¹ä¸º Control + Shift + Alt+ Enter æˆ–è€… æŠŠ `ipynb notebook` æ”¹æ‰ç”¨åˆ«çš„å¿«æ·é”®
 
            https://github.com/orgs/community/discussions/7255
 
    1. `Alt + \`
-      - È»ºóÆäËû¿ì½İ¼üÔÙÉúĞ§
+      - ç„¶åå…¶ä»–å¿«æ·é”®å†ç”Ÿæ•ˆ
 
 
    ## `Visual Studio` `GitHub Copilot` invent by `GitHub` + `GitHub Copilot Chat` invent by `Microsoft`
 
-   - GitHub Copilot Chat `ask copilot` ÉÏÏÂÎÄ²Ëµ¥²»³öÏÖ£¬
-     - °²×°Ë³Ğò£¬µ÷Õû ½ûÓÃ/ÆôÓÃ Á½¸ö²å¼ş
+   - GitHub Copilot Chat `ask copilot` ä¸Šä¸‹æ–‡èœå•ä¸å‡ºç°ï¼Œ
+     - å®‰è£…é¡ºåºï¼Œè°ƒæ•´ ç¦ç”¨/å¯ç”¨ ä¸¤ä¸ªæ’ä»¶
 
-   - ·Ö±ğÁ½¸ö output ´°¿Ú
+   - åˆ†åˆ«ä¸¤ä¸ª output çª—å£
 
    ## Visual Studio + proxy/fiddler/mitmweb + GitHub Copilot
    
@@ -92,12 +101,12 @@ Open GitHub Copilot: Ctrl + Enter
 
    - debugger-aware
 
-     - ÌáÊ¾´Ê
+     - æç¤ºè¯
             
       ```csharp
 
       // ask/prompt:
-      // Çë´Óµ±Ç°¶ÑÕ»ÖĞÅĞ¶Ï£¬±äÁ¿c3ºÍ±äÁ¿cÊÇÔÚµ±Ç°¶ÑÕ»ÖĞÊÇÍ¬Ò»¸öÒıÓÃÂğ£¿(failed)
+      // è¯·ä»å½“å‰å †æ ˆä¸­åˆ¤æ–­ï¼Œå˜é‡c3å’Œå˜é‡cæ˜¯åœ¨å½“å‰å †æ ˆä¸­æ˜¯åŒä¸€ä¸ªå¼•ç”¨å—ï¼Ÿ(failed)
 
       var c = new { a = 1, b = 2, c = 3 };
 
@@ -112,7 +121,7 @@ Open GitHub Copilot: Ctrl + Enter
       // ask/prompt:
       // base on current runtime frame, what's the new value of var a? (passed)
 
-      // ÔÚÔËĞĞÊ± Debug -> Windows -> Locals ËæÊ±ĞŞ¸Ä a µÄÖµ
+      // åœ¨è¿è¡Œæ—¶ Debug -> Windows -> Locals éšæ—¶ä¿®æ”¹ a çš„å€¼
 
       // Copilot Answer:
       // Based on the information provided in our previous conversation, the latest new value of a in the current runtime frame is 3. This is because a is initially assigned a value of 1, and then it is later assigned a new value of 3 by dividing 1 by b where b is assigned a value of 0. This division results in a runtime exception. 
@@ -121,7 +130,7 @@ Open GitHub Copilot: Ctrl + Enter
 
       ```
 
-   - ¾²Ì¬·ÖÎö: Òì³£¸¨Öú·ÖÎö
+   - é™æ€åˆ†æ: å¼‚å¸¸è¾…åŠ©åˆ†æ
 
       ```csharp
 
@@ -131,17 +140,17 @@ Open GitHub Copilot: Ctrl + Enter
       
       ```
 
-   - ¾²Ì¬·ÖÎö: ĞÔÄÜ¸¨Öú·ÖÎöÕï¶Ï
+   - é™æ€åˆ†æ: æ€§èƒ½è¾…åŠ©åˆ†æè¯Šæ–­
 
-      ¼ûÉÏÃæÁ´½Ó
+      è§ä¸Šé¢é“¾æ¥
 
-   -  ¶àÓïÑÔ±Ê¼Ç±¾
-    - Sql NoteBooks ¸ù¾İ²éÑ¯Óï¾ä·´ÏòÉú³É 
-      `create table` ºÍ `insert`
+   -  å¤šè¯­è¨€ç¬”è®°æœ¬
+    - Sql NoteBooks æ ¹æ®æŸ¥è¯¢è¯­å¥åå‘ç”Ÿæˆ 
+      `create table` å’Œ `insert`
 
       ```sql
 
-      -- ÌáÊ¾´Ê
+      -- æç¤ºè¯
       -- generate table! and 10 rows random data one by one
 
       SELECT
@@ -160,7 +169,7 @@ Open GitHub Copilot: Ctrl + Enter
 # Visual Studio Code - Java Console Apps 
 ## Comments to code
 1. Create new file - StockHelper.java
-2. Add comment on top:  "A class to get stock (China Merchant Bank) open and close prices from SINA Finance" or "´ÓĞÂÎÅ²Æ¾­»ñÈ¡ÕĞÉÌÒøĞĞ¹ÉÆ±µÄ¿ªÅÌ¼ÛºÍÊÕÅÌ¼Û"
+2. Add comment on top:  "A class to get stock (China Merchant Bank) open and close prices from SINA Finance" or "ä»æ–°é—»è´¢ç»è·å–æ‹›å•†é“¶è¡Œè‚¡ç¥¨çš„å¼€ç›˜ä»·å’Œæ”¶ç›˜ä»·"
 3. Enter to get code 
 4. or Ctrl + Enter to get code from suggestion list
 5. Run Code
